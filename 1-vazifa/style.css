@@ -1,0 +1,17 @@
+.required {
+    color: rgb(231, 76, 15);
+
+}
+
+.easy{
+    color: rgb(190, 39, 155);
+}
+
+.normal{
+    color:rgb(76, 61, 193);
+
+}
+
+.strong{
+    color:rgb(17, 218, 17);
+}
